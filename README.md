@@ -1,3 +1,3 @@
 # DADOS DE BRASÍLIA
 
-Reposítorio criado para servir filtrar dados abertos de Brasília.
+Reposítorio criado para filtrar dados abertos de Brasília.
